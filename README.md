@@ -3,7 +3,7 @@
 
 - 📚: I’m a second-year graduate student advised by [Guisong Xia](http://43.154.41.31/xia_En.html) at Wuhan University.
 - 🔍: Recently, I focus on multimodal LLMs at [Ant Group](https://www.antgroup.com/en). I also interned at [Tencent YouTu Lab](https://open.youtu.qq.com/#/open).
-- 🏛: **I'm looking forward to a 2025Fall PhD position. Please get in touch with me if you have any full-scholarship PhD positions.**
+- 🏛: **I'm looking forward to a 2025Fall full-time job position. **
 - 📫: Reach me: guopengli@whu.edu.cn.
 - 🧑‍🎓: [My Google Scholar](https://scholar.google.com/citations?user=ba1cv9cAAAAJ&hl)
 
